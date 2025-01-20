@@ -26,3 +26,4 @@ Thumbs.db
 
 # Arquivos Javascript
 *.js
+!main.js
